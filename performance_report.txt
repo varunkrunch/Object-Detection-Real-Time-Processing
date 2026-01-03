@@ -1,0 +1,7 @@
+YOLOv5 Real-Time Object Detection Performance Report
+--------------------------------------------------
+Input Source: Video File
+Total Frames Processed: 134
+Total Detections: 573
+Average Confidence Score: 0.75
+FPS Achieved: 14.18
