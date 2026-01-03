@@ -14,9 +14,12 @@ The system draws bounding boxes with confidence scores, logs detections to `dete
 
 ## How to Run
 
+
+
 1.  **Install the required Python packages:**
 
     ```bash
+    pip install -r requirements.txt
     pip install torch torchvision ultralytics opencv-python pandas
     pip install numpy==1.26.4
 
